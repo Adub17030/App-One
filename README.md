@@ -1,3 +1,8 @@
 # App-One
 
-## (╯°□°）╯︵ ┻━┻         GAME
+## (╯°□°）╯︵ ┻━┻
+
+
+- react-native-game-engine
+- Matter.js
+- Redux.js
